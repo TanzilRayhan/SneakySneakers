@@ -4,6 +4,12 @@ The **Sneaker Shop Management System** is a comprehensive software solution desi
 
 ---
 
+## Technologies Used
+- Programming Language: C#
+- Framework: Windows Forms
+- Database: SQL Server
+- Tools: Visual Studio
+
 ## Features
 ### Admin Features:
 - Full access to manage inventory, sales, and customer information.
@@ -31,7 +37,7 @@ As an admin, my primary goal is to oversee all system operations efficiently:
 
 ### **Employee User Story**
 As an employee, my focus is on customer assistance and inventory management:
-1. Log in with role-specific credentials.
+1. Login with role-specific credentials.
 2. Use the system to check inventory, assist customers, and process sales transactions.
 3. Update stock levels after each sale to ensure inventory accuracy.
 4. Notify appropriate personnel for restocking low-stock items.
